@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+<div dir="rtl">
+  <img src="" />
+  <h1> درباره ے من</h1>
+  <p> من فرزانه خاشعی هستم. دانشجوی کارشناسے رشته‌ی مهندسی کامپیوتر در دانشگاه پیام نور هستم.</p>
+  
+  <ul>
+    <h3> مشخصات فردی</h3>
+  <li>نام: فرزانه</li>
+  <li>نام خانوادگے: خاشعی</li>
+  <li>وضعیت تاهل: مجرد</li>
+  <li>تاریخ تولد: ۲۴ دی ۱۳۶۹</li>
+  <li>محل سڪونت: اصفهان</li>
+</ul>
 
-You can use the [editor on GitHub](https://github.com/FarzanehKhasheie/resume-fa.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  
+<h1>مهارت ها</h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<ul>
+  <li>فتوشاپ</li>
+  <li>طراحی لوگو و تبلیغات</li>
+  <li>عکاسی</li>
+</ul>
 
-### Markdown
+<h1> مدرک ها</h1>
+<ul>
+  <li>فتوشاپ</li>
+  <li>لیسانس نرم افزار</li>
+</ul>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h1> زبان ها</h1>
+<ul>
+  <li>فارسی</li>
+  <li>انگلیسی</li>
+</ul>
 
-```markdown
-Syntax highlighted code block
+<h1> تجربه هاے ڪارے </h1>
+<ul>
+   <li> طراحی و تبلیغات</li>
+</ul>
 
-# Header 1
-## Header 2
-### Header 3
+<h1> سوابق تحصیلے </h1>
+<ul>
+   <li>دیپلم رشته‌ی کامپیوتر در هنرستان فنی و حرفه ای قدس</li>
 
-- Bulleted
-- List
+<h1> عناوین و افتخارات </h1>
+<ul>
+   <li>مقام سوم جشنواره مسابقات نرم افزار منطقه ای اصفهان</li> 
+   <li>کسب مقام دوم مسابقات شطرنج اصفهان</li>
+</ul>
+<br/>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FarzanehKhasheie/resume-fa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h1> سایر حساب هاے ڪاربرے </h1>
+<ul>
+  <li>اینستاگرام: <a href="https://instagram.com/fawrzaneh_kh?igshid=d4xtl2ppg2wp">https://instagram.com/fawrzaneh_kh?igshid=d4xtl2ppg2wp</a></li>
+  <li>رزومه ے انگلیسے: <a href=""> رزومه </a></li>
+</ul>
