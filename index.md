@@ -52,5 +52,5 @@
 <h1> سایر حساب هاے ڪاربرے </h1>
 <ul>
   <li>اینستاگرام: <a href="https://instagram.com/fawrzaneh_kh?igshid=d4xtl2ppg2wp">https://instagram.com/fawrzaneh_kh?igshid=d4xtl2ppg2wp</a></li>
-  <li>رزومه ے انگلیسے: <a href=""> رزومه </a></li>
+  <li>رزومه ے انگلیسے: <a href="https://farzanehkhasheie.github.io/resume-farzaneh/"> رزومه </a></li>
 </ul>
